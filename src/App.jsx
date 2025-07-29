@@ -1,9 +1,10 @@
 import React from 'react'
-import Casefile from './Component/Casefile'
+import Counter from './Component/Counter'
+
 const App = () => {
   return (
     <div>
-      <Casefile />
+        <Counter />
     </div>
   )
 }
